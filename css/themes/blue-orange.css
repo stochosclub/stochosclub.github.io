@@ -107,7 +107,7 @@ body.home header .navbar {
 }
 
 .section-header h2 {
-    color: #374048
+    color: #2C8233
 }
 
 .section-header p {
@@ -148,7 +148,7 @@ body.home header .navbar {
 }
 
 .how-it-works {
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .work-process h3 {
@@ -172,7 +172,7 @@ body.home header .navbar {
 }
 
 .left-right-contents {
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .left-right-contents .media .media-left span {
@@ -200,7 +200,7 @@ body.home header .navbar {
 }
 
 .the-watch {
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .the-watch-features ul li {
@@ -216,7 +216,7 @@ body.home header .navbar {
 }
 
 .reviews {
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .review p {
@@ -224,7 +224,7 @@ body.home header .navbar {
 }
 
 .featured-on {
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .featured-on h3 {
@@ -252,7 +252,7 @@ body.home header .navbar {
 }
 
 .team {
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .member .inner {
@@ -355,7 +355,7 @@ body.home header .navbar {
 }
 
 footer.row {
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 footer.row .menu-rights p {
@@ -363,11 +363,11 @@ footer.row .menu-rights p {
 }
 
 .footer-menu li {
-    color: #9493FF
+    color: #2C8233
 }
 
 .footer-menu li a {
-    color: #9493FF
+    color: #2C8233
 }
 
 .footer-menu li a:hover,
@@ -408,12 +408,12 @@ footer.row .menu-rights p {
 
 .widget-search form .form-control {
     border-color: #e2eaef;
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .widget-search form .form-control+.input-group-addon {
     border-color: #e2eaef;
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .widget-search form .form-control+.input-group-addon button {
@@ -445,7 +445,7 @@ footer.row .menu-rights p {
 
 .tag {
     color: #bdc7ce;
-    background: #f8fbfd;
+    background: #F6F7F0;
     border-color: #e0e8ee
 }
 
@@ -512,7 +512,7 @@ footer.row .menu-rights p {
 }
 
 .author-about {
-    background: #f8fbfd
+    background: #F6F7F0
 }
 
 .author-about .media-body h3 a {
